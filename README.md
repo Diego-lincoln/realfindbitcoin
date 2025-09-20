@@ -50,7 +50,9 @@ Chave Privada (HEX): 92f92440cb686cb4fbf9aa03365000b0291e295575c420328703ca865c5
 Chave Pública: 03368aac8d49a0e49dd2bc9fdbca68b8fa9d457188f3f4358a8cbd81dda78549e6
 --------------------------------------------------------------------------------
 
+
 THE SAVED.TXT FILE HAS ALL THE PORTFOLIOS WE FOUND WHILE RUNNING THIS SYSTEM
+
 If you want to help us, you can send Bitcoins to the wallet below. This way, we can continue developing systems like this and making all this technology available to you free of charge.
 
 1DiegoU6ETJXK9hNWVTeuK4Y8fkksPnEnK (My Bitcoin WALLET for donations)
