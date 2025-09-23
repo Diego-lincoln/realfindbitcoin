@@ -189,3 +189,38 @@ Chave Privada (HEX): 0ddbdbf76c09e1fae081f9b091e5c66f472807eb3728ebd7319d7bc1e0f
 Chave Pública: 03a8763b8425a59144fd023b1203495f6c507f1610cd05db9f2ca6cfe01de3091d
 --------------------------------------------------------------------------------
 
+Palavra Base: word (repetida 11x) - CARTEIRA N 22 - LOCALIZADA POR CELI AI
+Palavra Completa: word
+Mnemonic: word word word word word word word word word word word word
+Endereço: 12Zk6irXDyTB7rpzyn5PZKdBGuHZ4pU6EF
+Chave Privada (WIF): L3MfiaeFDfKuwvqMv8v9uuz3sMSJRmk3NYfGgaTf5TE5vhQFwVz9
+Chave Privada (HEX): b71e356a0d91926f07e652c2bed72f87a84e3f49b9862ddf03686c18e22cee6a
+Chave Pública: 0309fafa51a46caeb46afd5b1d3106a18b4cc2e7962beeb2051fe38812ec101c46
+--------------------------------------------------------------------------------
+
+Palavra Base: world (repetida 11x) - - CARTEIRA N 23 - LOCALIZADA POR CELI AI
+Palavra Completa: world
+Mnemonic: world world world world world world world world world world world world
+Endereço: 12UTSu89ysjnZvue2SSQCTWNrvpocmKp95
+Chave Privada (WIF): L2ApvRojZa7a5UJARDyVhAASvwWjT8v4DnvctBx7tcaoXrEsz1Xw
+Chave Privada (HEX): 93b413d698a1486c0ef88486f1b3f98f29a243741fcbb414af9fae7f47cc9496
+Chave Pública: 02b725126c93b7daeecf869f837e74b5d3384400bcd65ea793cb91c2ff0a29022f
+--------------------------------------------------------------------------------
+
+Palavra Base: zoo (repetida 11x) - CARTEIRA N 24 - LOCALIZADA POR CELI AI
+Palavra Completa: wrong
+Mnemonic: zoo zoo zoo zoo zoo zoo zoo zoo zoo zoo zoo wrong
+Endereço: 1EjnS13zBgN6tUgy6U64qFeh53fyAeUsqE
+Chave Privada (WIF): L5NpMzWdTPpmQ1WsjtBpTti3CCXQ7ZjZQo4qcJJXPUBVVWXGC8k4
+Chave Privada (HEX): f362480944a2c58523734a4bd0bb3696ae7c502a2b1cd6624d8f30bccf91bc7a
+Chave Pública: 02a710461ef2cc6db53d2ceeacfbd41f9b47be0e5b62d5e0532c1c1547db4fbc89
+--------------------------------------------------------------------------------
+
+
+-------------------------- ESTATÍSTICAS FINAIS ---------------------------------
+Total de combinações criadas: 983763421134
+Total de combinações testadas: 4194230
+Combinações válidas (BIP39): 262137
+Carteiras com saldo encontradas: 24
+Taxa de sucesso: 0.00915552%
+--------------------------------------------------------------------------------
